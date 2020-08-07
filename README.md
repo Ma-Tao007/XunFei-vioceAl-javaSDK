@@ -7,3 +7,4 @@
 直接将项目导入本地，运行src/webapi.demo/WeblATWS.java，直接出来对应的识别结果
 
 ## 运行截图
+![image](https://github.com/Ma-Tao007/XunFei-vioceAl-javaSDK/blob/master/image/%E8%BF%90%E8%A1%8C%E6%95%88%E6%9E%9C.png)
