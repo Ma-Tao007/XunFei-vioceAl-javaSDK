@@ -1,5 +1,5 @@
 # XunFei-vioceAl-javaSDK
-基于科大讯飞语音javaSDK语音识别接口的案例
+基于科大讯飞语音javaSDK语音识别接口的案例([vue客户端案例](https://github.com/Ma-Tao007/xunfei-vioceAl-VueSDK))
 
 ## 运行方式
 需要将src/webapi.demo/WeblATWS.java中的几个应用参数修改成自己的参数，
